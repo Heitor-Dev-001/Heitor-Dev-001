@@ -8,7 +8,7 @@
 
 ![Heitor-Dev-001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitor-Dev-001&show_icons=true&theme=merko)
 
-
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Dev-001)](https://github.com/Heitor-Dev-001/github-readme-stats)
 
