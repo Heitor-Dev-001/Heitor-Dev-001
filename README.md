@@ -1,9 +1,10 @@
 
 
 ### Olá! Eu sou o Heitor ✋
+
 <a href="www.linkedin.com/in/heitor-silva-37714b1a0" target="_blank">
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heitor-silva-37714b1a0)
-</a>
+    ![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    </a>
 
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](heitorsilvanascimento2@outlook.com)
 
