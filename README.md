@@ -43,6 +43,6 @@
 <img align="center" alt="Microsoft Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 </div><br>
-
-## Em um mundo onde a tecnologia e a mudança, andam de mãos dadas, é necessário
+##
+ Em um mundo onde a tecnologia e a mudança, andam de mãos dadas, é necessário
 estar sempre por dentro das alterações e novidades, não apenas para estar atualizado de determinada tecnologia, mas sim, por estar por dentro de corpo e alma.
