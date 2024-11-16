@@ -1,4 +1,4 @@
-### Olá! Eu sou o Heitor ✋, estudante e sempre em busca de novas tecnlogias hahahaha.
+### Olá! Eu sou o Heitor ✋, estudante e sempre em busca de inovações tecnológicas hahahaha
 
 [![E-mail](https://img.icons8.com/ios-filled/50/000000/email.png)](heitorsilvanascimento2@outlook.com)
 
