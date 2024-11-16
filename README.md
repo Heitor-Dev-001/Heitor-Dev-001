@@ -1,9 +1,13 @@
 ### Olá! Eu sou o Heitor ✋, estudante e sempre em busca de inovações tecnológicas hahahaha
 
+
+## Contato:
 [![E-mail](https://img.icons8.com/?size=100&id=xn8wkXQChDKZ&format=png&color=000000)](mailto:heitorsilvanascimento2@outlook.com)
 
 
 [![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/heitor-silva-37714b1a0/)
+
+## Perfil resumo:
 
 ![Heitor-Dev-001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitor-Dev-001&show_icons=true&theme=merko)
 
