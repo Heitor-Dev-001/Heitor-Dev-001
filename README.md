@@ -45,5 +45,5 @@
 </div><br>
 ## Frase pessoal
 
- Em um mundo onde a tecnologia e a mudança, andam de mãos dadas, é necessário
+## Em um mundo onde a tecnologia e a mudança, andam de mãos dadas, é necessário
 estar sempre por dentro das alterações e novidades, não apenas para estar atualizado de determinada tecnologia, mas sim, por estar por dentro de corpo e alma.
