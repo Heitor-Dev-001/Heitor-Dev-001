@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Heitor ✋, estudante e sempre em busca de inovações tecnológicas hahahaha
 
-[![E-mail](https://img.icons8.com/ios-filled/50/000000/email.png)](heitorsilvanascimento2@outlook.com)
+[![E-mail](https://img.icons8.com/?size=100&id=12580&format=png&color=000000)](heitorsilvanascimento2@outlook.com)
+
 
 [![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/heitor-silva-37714b1a0/)
 
