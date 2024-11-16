@@ -51,4 +51,10 @@
 
 
  ## Frase pessoal:
-Em um mundo onde tecnologia e mudança andam de mãos dadas, é necessário estar sempre por dentro das alterações e novidades, não apenas para se manter atualizado sobre determinada tecnologia, mas também para estar imerso de corpo e alma
+Em um mundo onde tecnologia e mudança andam de mãos dadas, é necessário estar sempre por dentro das alterações e novidades, não apenas para se manter atualizado sobre determinada tecnologia, mas também para estar imerso de corpo e alma.
+
+## Hobbies 
+<h4> Prática de esportes. </h4>
+<h4> Ouvir música. </h4>
+<h4> Estudos sobre tecnologia. </h4> 
+<h4> Disciplina. </h4>
