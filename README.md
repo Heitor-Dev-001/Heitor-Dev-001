@@ -1,14 +1,11 @@
+### Olá! Eu sou o Heitor ✋, estudante e sempre em busca de novas tecnlogias hahahaha.
 
+[![E-mail](https://img.icons8.com/ios-filled/50/000000/email.png)](heitorsilvanascimento2@outlook.com)
 
-### Olá! Eu sou o Heitor ✋
-
-[![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heitor-silva-37714b1a0)
-
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](heitorsilvanascimento2@outlook.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/heitor-silva-37714b1a0/)
 
 ![Heitor-Dev-001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitor-Dev-001&show_icons=true&theme=merko)
 
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor-Dev-001)](https://github.com/Heitor-Dev-001/github-readme-stats)
 
@@ -49,5 +46,3 @@
 
 Em um mundo onde a tecnologia e a mudança, andam de mãos dadas, é necessário
 estar sempre por dentro das alterações e novidades, não apenas para estar atualizado de determinada tecnologia, mas sim, por estar por dentro de corpo e alma.
-
-
