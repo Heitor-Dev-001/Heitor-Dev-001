@@ -2,7 +2,7 @@
 
 [![E-mail](https://img.icons8.com/ios-filled/50/000000/email.png)](heitorsilvanascimento2@outlook.com)
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/heitor-silva-37714b1a0/)
+[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/heitor-silva-37714b1a0/)
 
 ![Heitor-Dev-001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitor-Dev-001&show_icons=true&theme=merko)
 
