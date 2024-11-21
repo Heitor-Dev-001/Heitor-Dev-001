@@ -7,6 +7,8 @@
 
 [![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/heitor-silva-37714b1a0/)
 
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Heitor-Dev-001/Heitor-Dev-001/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+
 ## Perfil resumo:
 
 ![Heitor-Dev-001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitor-Dev-001&show_icons=true&theme=merko)
